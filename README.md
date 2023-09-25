@@ -4,7 +4,7 @@ In this document, I discuss two articles about the same topic concerning deep le
 
 ##Article 1
 
-Yanb LeCun's [What AI Can Tell Us About Intelligence] (https://www.noemamag.com/what-ai-can-tell-us-about-intelligence/) in NOEMA dicusses the recent "wall", symbolic reasoning, that Deep Learning seems to encounter. LeCun states his disagreement on the idea, supported by scientist like Gary Marcus, that since symbolic reasoning needed to be explicited programmed from the begining, since the manipulations of symbols follow logical and algebraic principles, similar to how humans learn them.
+Yann LeCun's [What AI Can Tell Us About Intelligence] (https://www.noemamag.com/what-ai-can-tell-us-about-intelligence/) in NOEMA dicusses the recent "wall", symbolic reasoning, that Deep Learning seems to encounter. LeCun states his disagreement on the idea, supported by scientist like Gary Marcus, that symbolic reasoning needed to be explicited programmed from the begining, since the manipulations of symbols follow logical and algebraic principles, similar to how humans learn them.
 
 However, LeCun points out that deep learning can perform symbolic reasoning; he believes that Marcus' approach, "distilling human expertise into rules and facts", is challenging and goes against the actual ambiguity of the real world. However, deep learning, particularly through neural networks, excels at handling ambiguity for it can learn and represent relationships between symbols and concepts by clustering similar data points. Therefore, a hybrid model that Marcus suggested is not the solution for the current strain in the development of deep learning, if there is a strain at all. 
 
